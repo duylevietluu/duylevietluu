@@ -206,3 +206,11 @@ about **React, Express, .NET**
     />
   </a>
 </p>
+
+### ✨ Project Showcase
+
+* :computer: [ObieCode](https://obiecode.vercel.app/) - a full-stack website designed to help beginners practice coding in Python
+
+* :rocket: [DevNote](https://devnotes-two.vercel.app/) - a full-stack social media app tailored for developers to connect, share their relatable notes, and exchange experiences.
+
+* :gear: [PyJudgeAPI](https://github.com/duylevietluu/PyJudgeAPI) - a powerful NodeJS API that executes and evaluates Python code on the server-side. 
