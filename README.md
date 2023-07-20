@@ -12,7 +12,7 @@ about **React, Express, .NET**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/duy-v-le"
+    href="https://www.linkedin.com/in/duy-v-le"
     target="blank"
     ><img
       align="center"
@@ -22,7 +22,7 @@ about **React, Express, .NET**
       width="40"
   /></a>
   <a
-    href="https://fb.com/https://www.facebook.com/d.levietluuduy/"
+    href="https://www.facebook.com/d.levietluuduy/"
     target="blank"
     ><img
       align="center"
